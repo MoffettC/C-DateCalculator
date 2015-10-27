@@ -1,0 +1,231 @@
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option> 1
+Enter the month> 11
+Enter the day> 15
+Enter the year> 1922
+
+(319,     1922) Julian Date
+
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option> 1
+Enter the month> 2
+Enter the day> 29
+Enter the year> 1984
+
+(60,     1984) Julian Date
+
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option> 1
+Enter the month> 7
+Enter the day> 7
+Enter the year> 2000
+
+(189,     2000) Julian Date
+
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option> 2
+Enter the day> 53
+Enter the year> 1947
+
+(2/22/1947) Calendar Date
+
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option> 2
+Enter the day> 211
+Enter the year> 1995
+
+(7/30/1995) Calendar Date
+
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option> 2
+Enter the day> 360
+Enter the year> 2006
+
+(12/26/2006) Calendar Date
+
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option> 3
+Please enter the starting calendar date:
+Enter the month> 5
+Enter the day> 12
+Enter the year> 1949
+Please enter the ending calendar date:
+Enter the month> 8
+Enter the day> 16
+Enter the year> 1900
+
+
+Total Amount of Days: 17801
+
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option> 3
+Please enter the starting calendar date:
+Enter the month> 12
+Enter the day> 15
+Enter the year> 1985
+Please enter the ending calendar date:
+Enter the month> 3
+Enter the day> 1
+Enter the year> 1986
+
+
+Total Amount of Days: 76
+
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option> 3
+Please enter the starting calendar date:
+Enter the month> 1
+Enter the day> 1
+Enter the year> 1900
+Please enter the ending calendar date:
+Enter the month> 7
+Enter the day> 7
+Enter the year> 1993
+
+
+Total Amount of Days: 34155
+
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option> 1
+Enter the month> 2
+Enter the day> 29
+Enter the year> 1904
+
+(60,     1904) Julian Date
+
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option> 1
+Enter the month> 2
+Enter the day> 28
+Enter the year> 1905
+
+(59,     1905) Julian Date
+
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option> 2
+Enter the day> 60
+Enter the year> 1094
+
+(3/1/1094) Calendar Date
+
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option> 2
+Enter the day> 60
+Enter the year> 1904
+
+(2/29/1904) Calendar Date
+
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option> 2
+Enter the day> 60
+Enter the year> 1905
+
+(3/1/1905) Calendar Date
+
+
+Date Selection Menu
+
+1. Convert calendar date to Julian date
+2. Convert Julian date into calendar date
+3. Compute days between two calendar dates
+4. Exit program
+
+Please choose an option>
